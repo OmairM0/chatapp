@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+  .scrollbar-width-none {
+    scrollbar-width: none;
+  }
+}
